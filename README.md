@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prem+%F0%9F%91%8B;AIML+Student+%40+NIE+Mysuru;Building+ML+%26+FastAPI+systems;Looking+for+ML+internships" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bot-prem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bot-prem&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,git,github,docker" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=120&section=header" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=bot-prem&style=flat-square&color=blueviolet" alt="Profile views" />
