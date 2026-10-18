@@ -25,5 +25,3 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,git,github,docker" />
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FF7&height=120&section=header" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=bot-prem&style=flat-square&color=blueviolet" alt="Profile views" />
