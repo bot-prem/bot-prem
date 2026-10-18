@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prem+%F0%9F%91%8B;AIML+Student+%40+NIE+Mysuru;Building+ML+%26+FastAPI+systems;Looking+for+ML+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Prem+%F0%9F%91%8B;Building+Websites+40%;Building+ML+%26+FastAPI+systems" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bot-prem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
